@@ -28,7 +28,7 @@ Built using **React**, **React Router**, **Context API**, and integrated with Ra
 - **React Router DOM**
 - **Axios**
 - **Context API / Reducers**
-- **Tailwind CSS / CSS**
+- **Bootstrap / CSS**
 - **Razorpay Payment Script**
 
 
