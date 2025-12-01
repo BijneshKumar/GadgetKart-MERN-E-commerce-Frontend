@@ -1,7 +1,5 @@
 # Live Link - https://gadget-kart-mern-e-commerce-fronten.vercel.app/
 
-# ✅ **Frontend README (React.js – GadgetKart UI)**
-
 
 # GadgetKart Frontend (React)
 
@@ -10,7 +8,7 @@ Built using **React**, **React Router**, **Context API**, and integrated with Ra
 
 ---
 
-## 🎯 Features
+## Features
 
 - User Login / Signup
 - Responsive Home & Product Pages
@@ -24,7 +22,7 @@ Built using **React**, **React Router**, **Context API**, and integrated with Ra
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **React.js**
 - **React Router DOM**
@@ -34,5 +32,4 @@ Built using **React**, **React Router**, **Context API**, and integrated with Ra
 - **Razorpay Payment Script**
 
 
-## 📁 Folder Structure
 
