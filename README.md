@@ -1,12 +1,38 @@
-# React + Vite
+# Live Link - https://gadget-kart-mern-e-commerce-fronten.vercel.app/
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# ✅ **Frontend README (React.js – GadgetKart UI)**
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# GadgetKart Frontend (React)
 
-## Expanding the ESLint configuration
+This is the **frontend UI** for the GadgetKart MERN e-commerce application.  
+Built using **React**, **React Router**, **Context API**, and integrated with Razorpay Checkout.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🎯 Features
+
+- User Login / Signup
+- Responsive Home & Product Pages
+- Product Filters & Search
+- Cart Management
+- Order Checkout Flow
+- Razorpay Payment Integration
+- API Integration with Backend
+- Toast Notifications
+- Protected Routes
+
+---
+
+## 🛠️ Tech Stack
+
+- **React.js**
+- **React Router DOM**
+- **Axios**
+- **Context API / Reducers**
+- **Tailwind CSS / CSS**
+- **Razorpay Payment Script**
+
+
+## 📁 Folder Structure
+
